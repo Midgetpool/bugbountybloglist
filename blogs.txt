@@ -32,6 +32,7 @@ https://blog.orange.tw/
 https://mert.ninja/
 https://jub0bs.com/
 https://corben.io/blog
+https://www.cisecurity.org/insights/blog
 https://portswigger.net/research
 https://rez0.blog/
 https://www.jhaddix.com/blog
